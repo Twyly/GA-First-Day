@@ -125,13 +125,13 @@
 		F57CB48E17EE3C6100620EFD /* Tourist */ = {
 			isa = PBXGroup;
 			children = (
-				F57CB4BD17EE3CCF00620EFD /* CCPlace.h */,
-				F57CB4BE17EE3CCF00620EFD /* CCPlace.m */,
 				F57CB49717EE3C6100620EFD /* CCAppDelegate.h */,
 				F57CB49817EE3C6100620EFD /* CCAppDelegate.m */,
 				F57CB49A17EE3C6100620EFD /* Main.storyboard */,
 				F57CB49D17EE3C6100620EFD /* CCViewController.h */,
 				F57CB49E17EE3C6100620EFD /* CCViewController.m */,
+				F57CB4BD17EE3CCF00620EFD /* CCPlace.h */,
+				F57CB4BE17EE3CCF00620EFD /* CCPlace.m */,
 				F57CB4A017EE3C6100620EFD /* Images.xcassets */,
 				F57CB48F17EE3C6100620EFD /* Supporting Files */,
 			);
@@ -487,6 +487,7 @@
 				F57CB4B917EE3C6100620EFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F57CB4BA17EE3C6100620EFD /* Build configuration list for PBXNativeTarget "TouristTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +496,7 @@
 				F57CB4BC17EE3C6100620EFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

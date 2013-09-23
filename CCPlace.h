@@ -10,6 +10,8 @@
 
 @interface CCPlace : NSObject
 
+// These are the public properties that are accessible to other classes that import CCPlace.h
+
 @property (strong, nonatomic) NSString *name;
 @property (strong, nonatomic) NSString *location;
 @property (strong, nonatomic) UIImage *image;

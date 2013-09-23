@@ -10,6 +10,9 @@
 
 @implementation CCPlace
 
+// Extra Credit - This is how our objects respond to the question "How do I describe myself?"
+// This is called when you pass in a CCPlace object (using %@) in a NSLog functions.
+
 - (NSString *)description
 {
     return self.name;
